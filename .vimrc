@@ -55,6 +55,7 @@ set number
 set background=dark
 set hlsearch
 set cursorline
+set ruler
 
 " ---------------------------
 " 6 multiple windows
